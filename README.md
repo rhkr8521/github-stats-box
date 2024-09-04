@@ -6,7 +6,6 @@
   <p align="center">⚡️📌 Update a pinned gist to contain your GitHub stats</p>
 </p>
 
-
 ---
 
 ## Prep work
